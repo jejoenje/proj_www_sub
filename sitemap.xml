@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jejooenje.github.io/proj_www_sub/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jejooenje.github.io/proj_www_sub/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jejooenje.github.io/proj_www_sub/post/newpost/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -38,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://jejooenje.github.io/proj_www_sub/categories/golang/</loc>
+    <loc>https://jejooenje.github.io/proj_www_sub/tags/golang/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jejooenje.github.io/proj_www_sub/tags/golang/</loc>
+    <loc>https://jejooenje.github.io/proj_www_sub/categories/golang/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,21 +65,6 @@
   <url>
     <loc>https://jejooenje.github.io/proj_www_sub/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jejooenje.github.io/proj_www_sub/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jejooenje.github.io/proj_www_sub/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jejooenje.github.io/proj_www_sub/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
