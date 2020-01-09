@@ -1,4 +1,4 @@
-baseurl = "https://jejooenje.github.io/proj_www_sub/www/"
+baseurl = "https://jejooenje.github.io/proj_www_sub/"
 title = "Whiteplain"
 # themesDir = "../../"
 theme = "whiteplain"
